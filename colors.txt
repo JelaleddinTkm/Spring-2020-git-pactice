@@ -2,4 +2,8 @@ red
 blue
 ###brown
 purple
+white
+green
+yellow
+
 
