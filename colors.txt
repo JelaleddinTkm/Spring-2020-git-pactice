@@ -2,4 +2,6 @@ red
 blue
 ###brown
 purple
-
+violet
+apricot
+gray
